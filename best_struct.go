@@ -1,4 +1,4 @@
-package best_struct
+package best_pattern
 
 // /////////////////////////////// Simple /////////////////////////////////
 // 1. NewServer의 매개변수를 한번 Wrapping 해야 함

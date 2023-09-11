@@ -1,4 +1,4 @@
-package best_struct
+package best_pattern
 
 import (
 	"fmt"
