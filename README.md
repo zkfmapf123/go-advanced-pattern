@@ -10,4 +10,6 @@
 
 - Concurrency
 
-  - [Goroutine](./goroutine/)
+  - [sender_to_recipient](./sender_recipenet_test.go)
+  - [consumer](./consumer_test.go) => 소비자 패턴
+  - [reliable_consumer](./reliable_consumber_test.go) => 믿을만한 소비자 패턴
